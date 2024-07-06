@@ -21,10 +21,10 @@ const Header = () => {
             style={{ maxHeight: "100px" }}
             navbarScroll
           >
-            <Nav.Link href="#action1">Home</Nav.Link>
-            <Nav.Link href="#action2">Feature</Nav.Link>
-            <Nav.Link href="#action2">About</Nav.Link>
-            <Nav.Link href="#action2">Contact</Nav.Link>
+            <Nav.Link href="#">Home</Nav.Link>
+            <Nav.Link href="#">Feature</Nav.Link>
+            <Nav.Link href="#">About</Nav.Link>
+            <Nav.Link href="#">Contact</Nav.Link>
           </Nav>
           <Form className="d-flex">
             <Form.Control
