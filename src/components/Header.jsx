@@ -13,7 +13,7 @@ const Header = () => {
       data-bs-theme="dark"
     >
       <Container fluid>
-        <Navbar.Brand href="#">Watch brands</Navbar.Brand>
+        <Navbar.Brand href="/">Watch brands</Navbar.Brand>
         <Navbar.Toggle aria-controls="navbarScroll" />
         <Navbar.Collapse id="navbarScroll">
           <Nav
